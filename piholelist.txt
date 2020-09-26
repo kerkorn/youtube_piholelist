@@ -1023,3 +1023,4 @@ r8---sn-5np5po4v-c33sz.googlevideo.com
 r8---sn-5np5po4v-c33y.googlevideo.com
 r8---sn-5np5po4v-c33y.gvt1.com
 yt3.ggpht.com
+redirector.googlevideo.com
